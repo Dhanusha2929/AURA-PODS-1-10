@@ -35,6 +35,12 @@ No frameworks or libraries were used in this project.
 
 <img src="assets/Screenshot 2026-02-14 090131.png" width="700">
 
+## 🎥 Project Demo Video
+
+[▶ Click Here to Watch Demo Video](assets/WhatsApp%20Video%202026-02-13%20at%206.53.15%20PM.mp4)
+
+
+
 
 ## 🎯 Purpose of This Challenge
 
